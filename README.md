@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning **Next.js**
+- 😄 Pronouns: he/him
+
 <!--
 **brunopistarino/brunopistarino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
