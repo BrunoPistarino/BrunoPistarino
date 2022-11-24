@@ -3,6 +3,10 @@
 - 🌱 I’m currently learning **Next.js**
 - 😄 Pronouns: he/him
 
+|Projects|Technologies|State|Repo|
+|--------|------------|-----|----|
+|Spotify clone|Nextjs - Sass|WIP|[link](https://github.com/brunopistarino/spotify-clone-nextjs)
+
 <!--
 **brunopistarino/brunopistarino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
