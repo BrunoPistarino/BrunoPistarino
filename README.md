@@ -5,7 +5,8 @@
 
 |Projects|Technologies|State|Repo|
 |--------|------------|-----|----|
-|Spotify clone|Nextjs - Sass|WIP|[link](https://github.com/brunopistarino/spotify-clone-nextjs)
+|Spotify clone|Nextjs - Sass|WIP|[link](https://github.com/brunopistarino/spotify-clone-nextjs)|
+|numatch|React - Sass|Finished|[link](https://github.com/brunopistarino/numatch-react)|
 
 <!--
 **brunopistarino/brunopistarino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
