@@ -1,3 +1,4 @@
+<!--
 ### Hi there 👋
 
 - 🌱 I’m currently learning **Next.js**
@@ -9,6 +10,7 @@
 |numatch|React - Sass|Finished|[link](https://github.com/brunopistarino/numatch-react)|
 |Linkee|...|WIP|[link](https://github.com/brunopistarino/linkee-next-13)|
 |QR Connect|...|WIP|[link](https://github.com/brunopistarino/qr-connect)|
+-->
 
 <!--
 **brunopistarino/brunopistarino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
